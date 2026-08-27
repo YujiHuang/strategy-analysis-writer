@@ -1,0 +1,4 @@
+interface:
+  display_name: "战略分析写作"
+  short_description: "把复杂材料写成金字塔结构、MECE 严谨的战略报告"
+  default_prompt: "使用 $strategy-analysis-writer 将这些研究材料蒸馏成结论先行、证据扎实的战略分析。"
